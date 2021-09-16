@@ -1,0 +1,21 @@
+#tudo{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: url(img/backgorund.png);
+}
+h1{
+    font-size: 40px;
+    font-weight: normal;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+.bl{
+    padding-left: 5%;
+}
+.bl img{
+    width: 10%;
+}
+.bl a{
+    font-size: 25px;
+}
